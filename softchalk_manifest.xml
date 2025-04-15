@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lesson>
+<id>1616074884683</id>
+<number_of_pages>1</number_of_pages>
+<lessonrevisionnumber>4</lessonrevisionnumber>
+<points>20</points>
+<name urlencoding="UTF-8"><![CDATA[]]></name>
+<style_name>1b265a8f37624803ae188fdadbd80d3a</style_name>
+<style_id></style_id>
+<style_type>default</style_type>
+<style_has_custom_popups>false</style_has_custom_popups>
+<scoreditems>
+  <quizpopper>
+    <id>quizpopper1</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>1</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+statements+about+Haitian+immigrants+is+true%3F]]></question>
+    <choices>
+      <choice>
+        <id>q1a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Haitians+are+still+mostly+first-generation+immigrants]]></text>
+      </choice>
+      <choice>
+        <id>q1b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Haitians+do+not+have+trouble+communicating+in+English+since+it+is+spoken+in+Haiti]]></text>
+      </choice>
+      <choice>
+        <id>q1c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Haitian+immigrants+tend+to+be+highly+educated]]></text>
+      </choice>
+      <choice>
+        <id>q1d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Haitian+immigrants+creates+social+disruption+to+social+systems+in+the+U.S.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper2</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>2</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+groups+has+a+higher+percentage+of+college+graduates+in+comparison+to+non-Hispanic+whites%3F]]></question>
+    <choices>
+      <choice>
+        <id>q2a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Haitian+Americans]]></text>
+      </choice>
+      <choice>
+        <id>q2b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Jamaican+Americans]]></text>
+      </choice>
+      <choice>
+        <id>q2c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Vietnamese+Americans]]></text>
+      </choice>
+      <choice>
+        <id>q2d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Arab+Americans]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper3</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>3</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+statements+about+Nigerian+immigrants+is+false%3F]]></question>
+    <choices>
+      <choice>
+        <id>q3a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+are+recent+immigrants+and%2C+thus%2C+have+a+high+representation+of+first-generation+members]]></text>
+      </choice>
+      <choice>
+        <id>q3b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Nigerian+immigrants+tend+to+be+highly+skilled+and+educated]]></text>
+      </choice>
+      <choice>
+        <id>q3c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+majority+of+Nigerian+immigrants+were+admitted+as+refugees]]></text>
+      </choice>
+      <choice>
+        <id>q3d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Nigerian+immigrants+have+a+high+level+of+English+fluency]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper4</id>
+    <type>4</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>4</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[The+U.S.+government+defined+________+immigrants+as+economic+refugees+ineligible+for+asylum]]></question>
+    <choices>
+      <choice>
+        <casesensitive>false</casesensitive>
+        <text urlencoding="UTF-8"><![CDATA[Haitian]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper5</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>5</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[In+one+recent+poll%2C+________%25+of+Americans+felt+that+undocumented+workers+placed+a+burden+on+American+institutions+such+as+schools+and+hospitals]]></question>
+    <choices>
+      <choice>
+        <id>q5a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[23]]></text>
+      </choice>
+      <choice>
+        <id>q5b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[36]]></text>
+      </choice>
+      <choice>
+        <id>q5c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[54]]></text>
+      </choice>
+      <choice>
+        <id>q5d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[61]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper6</id>
+    <type>4</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>6</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[One+of+the+best-known+attempts+to+limit+benefits+to+illegal+immigrants+occurred+in+1994%2C+when+________+voters+passed+Proposition+187]]></question>
+    <choices>
+      <choice>
+        <casesensitive>false</casesensitive>
+        <text urlencoding="UTF-8"><![CDATA[California]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper7</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>7</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+statements+about+Arab+Americans+is+false%3F]]></question>
+    <choices>
+      <choice>
+        <id>q7a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Arab+Americans+are+urbanized]]></text>
+      </choice>
+      <choice>
+        <id>q7b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Arab+Americans+are+less+skilled]]></text>
+      </choice>
+      <choice>
+        <id>q7c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Arab+Americans+include+both+Muslims+and+Christians]]></text>
+      </choice>
+      <choice>
+        <id>q7d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Arab+Americans+rank+relatively+high+in+income+and+occupation]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper8</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>8</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[What+do+Jamaica+and+Nigeria+have+in+common%3F]]></question>
+    <choices>
+      <choice>
+        <id>q8a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+are+both+former+Spanish+colonies]]></text>
+      </choice>
+      <choice>
+        <id>q8b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+are+both+former+British+colonies]]></text>
+      </choice>
+      <choice>
+        <id>q8c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+are+both+former+French+colonies]]></text>
+      </choice>
+      <choice>
+        <id>q8d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+are+both+former+Italian+colonies]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper9</id>
+    <type>4</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>9</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Two+recent+studies+provide+support+for+Gordon%27s+theory+of+assimilation+by+suggesting+that+most+contemporary+immigrant+groups+are+acculturating+and+integrating+at+the+%22normal%22+________-generation+pace]]></question>
+    <choices>
+      <choice>
+        <casesensitive>false</casesensitive>
+        <text urlencoding="UTF-8"><![CDATA[three]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper10</id>
+    <type>4</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>10</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[________+is+the+term+for+the+loss+of+more-educated+citizens+to+other+nations]]></question>
+    <choices>
+      <choice>
+        <casesensitive>false</casesensitive>
+        <text urlencoding="UTF-8"><![CDATA[brain+drain]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper11</id>
+    <type>2</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>11</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[An+executive+order+in+2012+allowed+DREAMers+who+met+certain+criteria+to+stay+in+the+United+States+for+a+renewable+two-year+term%2C+without+fear+of+deportation]]></question>
+    <choices>
+      <choice>
+        <id>q11a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q11b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper12</id>
+    <type>2</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>12</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Arab+and+Middle+Eastern+Americans+mostly+reside+in+rural+areas]]></question>
+    <choices>
+      <choice>
+        <id>q12a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q12b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper13</id>
+    <type>2</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>13</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Many+studies+find+that+immigration+is+generally+a+negative+force+in+the+economy]]></question>
+    <choices>
+      <choice>
+        <id>q13a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q13b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper14</id>
+    <type>2</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>14</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Much+like+their+Cuban+counterparts%2C+the+U.S.+government+defined+Haitians+as+political+refugees+eligible+for+asylum]]></question>
+    <choices>
+      <choice>
+        <id>q14a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q14b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper15</id>
+    <type>2</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>15</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Recent+immigrants+from+Egypt+consist+mostly+of+individuals+with+a+lot+of+human+capital]]></question>
+    <choices>
+      <choice>
+        <id>q15a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q15b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper16</id>
+    <type>2</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>16</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[According+to+recent+research%2C+there+seems+to+be+a+correlation+between+pessimism+about+the+economy+and+the+perception+of+immigrants+as+threats]]></question>
+    <choices>
+      <choice>
+        <id>q16a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q16b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper17</id>
+    <type>2</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>17</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Immigration+does+not+contribute+to+the+wealth+and+affluence+of+more+developed+societies%2C+particularly+the+dominant+groups+and+elite+classes+of+these+societies]]></question>
+    <choices>
+      <choice>
+        <id>q17a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q17b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper18</id>
+    <type>2</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>18</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[According+to+the+text%2C+the+North+American+Free+Trade+Agreement+%28NAFTA%29+is+an+example+of+a+neoliberal+policy]]></question>
+    <choices>
+      <choice>
+        <id>q18a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q18b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper19</id>
+    <type>2</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>19</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Colombia+is%2C+to+some+extent%2C+less+developed+than+most+other+Central+and+South+American+nations]]></question>
+    <choices>
+      <choice>
+        <id>q19a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q19b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper20</id>
+    <type>4</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>20</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[________+immigrants+have+incomes+and+educational+levels+that+are+somewhat+comparable+to+that+of+colonized+minority+groups]]></question>
+    <choices>
+      <choice>
+        <casesensitive>false</casesensitive>
+        <text urlencoding="UTF-8"><![CDATA[Vietnamese]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+</scoreditems>
+<ContentItems xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <ContentItem>
+        <dc:description urlencoding="UTF-8">Lesson+created+by+SoftChalk</dc:description>
+        <dc:title urlencoding="UTF-8"><![CDATA[Lesson9]]></dc:title>
+        <dc:creator urlencoding="UTF-8"/>
+        <dc:license>Unspecified</dc:license>
+        <SubTitle urlencoding="UTF-8"/>
+        <TotalPoints>20</TotalPoints>
+        <Language urlencoding="UTF-8">English</Language>
+        <NumberOfPages>1</NumberOfPages>
+        <MainFileName>Lesson9</MainFileName>
+        <LessonStructureVersion>11.04.03</LessonStructureVersion>
+        <CreatorFirstName urlencoding="UTF-8"/>
+        <CreatorLastName urlencoding="UTF-8"/>
+        <CreatorOrganization urlencoding="UTF-8"/>
+        <CreatorEmail urlencoding="UTF-8"/>
+    </ContentItem>
+</ContentItems>
+</lesson>
